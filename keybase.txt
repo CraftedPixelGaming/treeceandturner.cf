@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/minion3665
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://treeceandturner.cf
+  * I am minion3665 (https://keybase.io/minion3665) on keybase.
+  * I have a public key ASCU0cYIMXlXFWG6oINSOKoRVJQfFdn1llh7tCtbtvK5mAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012094d1c6083179571561baa0835238aa1154941f15d9f596587bb42b5bb6f2b9980a",
+      "host": "keybase.io",
+      "kid": "012094d1c6083179571561baa0835238aa1154941f15d9f596587bb42b5bb6f2b9980a",
+      "uid": "f19aa189c864174e94aa0dfb17e7b319",
+      "username": "minion3665"
+    },
+    "merkle_root": {
+      "ctime": 1557040109,
+      "hash": "bf8ac3185551780cf2a54359cd5c3213997b764edbe89bd6647d9faceda38b8ef4e1fd7be7bc0291ec21b2391c41d7d8c8b2854ca12b718c1787f7483c768a21",
+      "hash_meta": "71a610f978eeed7eb6b19f9cfc8306c60d23c7cfbc5ef4b7fefee131e27f1b6c",
+      "seqno": 5298903
+    },
+    "service": {
+      "entropy": "cYNM2xtTKBnWEQ2lF3o9hPqf",
+      "hostname": "treeceandturner.cf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1557040126,
+  "expire_in": 504576000,
+  "prev": "dec877e3e0857c540ade232316ae03ef0f3c053be3f7cc02f4922b31b0ee0717",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglNHGCDF5VxVhuqCDUjiqEVSUHxXZ9ZZYe7QrW7byuZgKp3BheWxvYWTESpcCCcQg3sh34+CFfFQK3iMjFq4D7w88BTvj98wC9JIrMbDuBxfEIM9b35y75XZSWZ3fjVZqpXALucdLj8AVXhH+A+JorqctAgHCo3NpZ8RAX8D4PDpOEJy102MgzesRnS3ZFqKFdD4HxdbXNx7AtwgtAZXCrzHWJLaW6JO/54g3XARwa2umGNmzQv8i8drWA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIq1gRY24F4qz2EdlswNZF5UuKH6sOwST/kpuXRaW5R3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/minion3665
+
+==================================================================
